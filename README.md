@@ -1,4 +1,4 @@
-RAG Using LangChain
+RAG Using LangChain and langchain
 Overview
 
 This project demonstrates the implementation of a Retrieval-Augmented Generation (RAG) pipeline using LangChain. RAG enhances the capabilities of Large Language Models (LLMs) by retrieving relevant information from external knowledge sources and providing it as context during response generation.
