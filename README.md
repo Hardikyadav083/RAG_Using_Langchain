@@ -8,7 +8,7 @@ The system combines document retrieval and generative AI to produce accurate, co
 Features
 Document loading from multiple sources (PDF, TXT, Web Pages, etc.)
 Text chunking and preprocessing
-Embedding generation using transformer-based embedding models
+Embedding generation using transfo rmer-based embedding models
 Vector database integration for semantic search
 Similarity-based document retrieval
 Context-aware answer generation using LLMs
