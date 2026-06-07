@@ -85,3 +85,4 @@ Terrorism is a big danger to peace and safety. It causes harm to people and crea
 chunks=text_splitter.split_text(text)
 
 print(len(chunks))
+print(len(text.split()))
